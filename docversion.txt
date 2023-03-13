@@ -1,0 +1,3 @@
+ovoj dokument treba da go ima vo verzija 0.0.2
+a ne vo verzija 0.0.1
+
